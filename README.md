@@ -15,4 +15,5 @@ The CMakeLists.txt file created by Barco provides an easy mechanism to integrate
 BasicToolBox. It is actually an indirect dependency introduced by Howard Hinnant's libdate.
 The original CMakeList.txt file libdate was adapted to explicitely express a dependency to tzdata.
 
-For more details have a look into this CMakeLists.txt and the one in libdate (https://git.barco.com/projects/BAT/repos/3rd_date/browse).
+For more details have a look into this CMakeLists.txt and the one
+in libdate (https://github.com/barcoopensource/date/blob/master/CMakeLists.txt#L39).
